@@ -2,5 +2,7 @@
 
 ## **Documentos**
 
-- [Repaso en formato .ipynb](./C1.5_Repaso.ipynb)  
-- [Repaso en formato .html](./C1.5_Repaso.html)  
+- [Repaso en formato .html](./Repaso_C1.5.html)
+  
+- [Repaso en formato .ipynb](./Repaso_C1.5.ipynb)  
+
